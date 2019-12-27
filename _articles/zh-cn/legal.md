@@ -32,7 +32,7 @@ related:
 （copyright）所有者。这意味着没有人（也包括你们）可以使用，复制，分发后者修改他
 们的贡献，
 
-最后，你们的项目可能和你们不知道的许可证要求存在依赖关系。你们的项目社区，或者你
+最后，你们的项目可能和你们不知道的许可证要求存在依赖关系。你们的项目社区，或者�
 们的雇主政策也可能要求你们使用特定的开源许可协议。我们将在下面介绍这些情况。
 
 ## Github 上的公开项目都是开源的吗？
@@ -99,7 +99,7 @@ related:
   ，[MIT](https://choosealicense.com/licenses/mit/)是[npm libraries](https://libraries.io/search?platforms=NPM)使
   用的最流行的许可协议。
 - **你们的项目是否想吸引大企业？**大型企业可能需要所有贡献者的明确专利许可。在这
-  种情况下，[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)适合你
+  种情况下，[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)适合�
   们。
 - **你们的项目是否想吸引不愿自己的贡献用于其它同类型软件的贡献者
   ？**[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)和[AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)适
@@ -109,7 +109,7 @@ related:
 便公司可以在公司的闭源产品中使用你们的项目。或者你们的公司要求严格的 copyleft 许
 可协议和一份附加的贡献者协议，以便除了你们公司以外，没有人能在封闭源代码的软件中
 使用你们的项目。或者你们的公司可能有与标准，社会责任或透明度相关的某些需求，其中
-任何一个都可能需要特定的许可策略。与你
+任何一个都可能需要特定的许可策略。与�
 们[公司的法律部门](#公司的法律团队需要知道什么)谈谈。
 
 当你们在 GitHub 上创建了一个新项目，它给你们提供了选择许可协议的选项。包括上面提
@@ -186,7 +186,7 @@ related:
   者的专利授权，这些可能适合用于你们公司的专利组合或者项目的其他贡献者和用户
   。[Apache 个人贡献者许可协议](https://www.apache.org/licenses/icla.txt)是一种
   常用的附加贡献者协议，其具有与 Apache 许可 2.0 中的专利许可相同的专利许可。
-- 如果你们的项目使用的是 copyleft 许可协议，但你们也需要分发项目的专有版本。那你
+- 如果你们的项目使用的是 copyleft 许可协议，但你们也需要分发项目的专有版本。那�
   们需要每个贡献者分配版权给你们或者授予你们许可权
   。[MongoDB 贡献者协议](https://www.mongodb.com/legal/contributor-agreement)就
   是这中类型的。
@@ -270,7 +270,7 @@ related:
   </p>
 </aside>
 
-- **专利：**你们的公司可能希望加
+- **专利：**你们的公司可能希望�
   入[开放发明网络](http://www.openinventionnetwork.com/)，一个共享的专利防御池，
   以保护成员使用主要开源项目，或探索其他替代专利许可。
 
