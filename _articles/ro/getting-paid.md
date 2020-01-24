@@ -30,7 +30,7 @@ rapidă, sau ar putea să se bucure să meșterească pe un proiect cu sursă de
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Căutam un proiect de programare ca „hobby” care să mă țină ocupat în săptămâna din jurul Crăciunului. (...) Aveam un calculator acasă, și nu mai mult în mâinile mele. Am decis să scriu un interpretor pentru noul limbaj de scripting la care mă gândeam în ultimul timp. (...) Am ales Python ca un titlu de lucru.
-  </p>  
+  </p>
   <p>
     <em>
       I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.

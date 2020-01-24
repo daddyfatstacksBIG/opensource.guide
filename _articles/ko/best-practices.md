@@ -173,7 +173,7 @@ related:
 - **request를 닫습니다**
 
 응답하는 데 1-2문장 이상 필요하지 않습니다. 예시로,
-[celery](https://github.com/celery/celery/)의 사용자가 윈도우 관련 오류를 보고
+[celery](https://github.com/celery/celery/)의 사용자가 윈도우 관련 오류를 보�
 했을때, @berkerpeksag는
 [이렇게 반응했습니다](https://github.com/celery/celery/issues/3383):
 
@@ -237,7 +237,7 @@ related:
 누군가 당신의 프로젝트에 열성적이지만 약간의 수정이 필요하다면 인내심을 가집시다
 . 그들의 공헌이 프로젝트의 기대에 부합하지 않는 이유를 각 상황에서 분명하게 설명
 합니다. 발을 젖게하기 위해 *"좋은 첫 버그,"*라고 표시된 이슈와 같이 더 쉽거나 덜
-모호한 작업을 가리키도록 하십시오. 시간이 있다면, 첫번째 기여를 통해 멘토링을 고
+모호한 작업을 가리키도록 하십시오. 시간이 있다면, 첫번째 기여를 통해 멘토링을 �
 려하거나 멘토를 기꺼이 도울 수 있는 다른 사람을 커뮤니티에서 찾을 수 있습니다.
 
 ## Leverage your community
@@ -354,7 +354,7 @@ API 및 사용자 정의 후크를 제공하면 소스를 직접 수정하지 �
 
 - [semantic-release](https://github.com/semantic-release/semantic-release) 릴리
   즈를 자동화하기
-- [mention-bot](https://github.com/facebook/mention-bot) pull requests를 위한 잠
+- [mention-bot](https://github.com/facebook/mention-bot) pull requests를 위한 �
   재적 검토자 언급하기
 - [Danger](https://github.com/danger/danger) 코드 리뷰 자동화를 도와주기
 
@@ -404,7 +404,7 @@ API 및 사용자 정의 후크를 제공하면 소스를 직접 수정하지 �
 </aside>
 
 때때로, 모든 사람들이 당신을 필요로 할 때 오픈소스 작업에서 휴식을 취하는 것이
-어려울 수 있습니다. 사람들은 심지어 당신이 발걸음을 딛고 죄책감을 갖도록하려고
+어려울 수 있습니다. 사람들은 심지어 당신이 발걸음을 딛고 죄책감을 갖도록하려�
 할 수도 있습니다.
 
 프로젝트를 떠나려는 동안 사용자와 커뮤니티에 대한 지원을 찾으려면 최선을 다하십

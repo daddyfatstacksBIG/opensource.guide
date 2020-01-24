@@ -193,7 +193,7 @@ redirect_from: /zh-cn/best-practices/
   </p>
 </aside>
 
-有时候，当你说不的时候，你潜在的贡献者会感到对你的沮丧或者不爽。如果他们开始找你
+有时候，当你说不的时候，你潜在的贡献者会感到对你的沮丧或者不爽。如果他们开始找�
 撕逼了
 ，[采取必要的措施以应对局势](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items)或
 者干脆把他们从你的社区开除，如果他们不打算和你保持建设性的合作关系的话。

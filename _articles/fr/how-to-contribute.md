@@ -44,7 +44,7 @@ conférences ou de bavardages en ligne tard dans la nuit sur les burritos.
 ### Trouver des mentors et enseigner aux autres
 
 Travailler avec d'autres sur un projet partagé signifie que vous devrez
-expliquer comment vous faites les choses, ainsi que de demander de l'aide à
+expliquer comment vous faites les choses, ainsi que de demander de l'aide �
 d'autres personnes. Les actes d'apprentissage et d'enseignement peuvent être une
 activité enrichissante pour tous ceux qui sont impliqués.
 
@@ -209,7 +209,7 @@ processus de collaboration renforcera votre confiance et votre expérience.
 </aside>
 
 Pour tout ce qui n'est pas une faute de frappe, contribuer à l'open source,
-c'est comme aller à un groupe d'étrangers lors d'une fête. Si vous commencez à
+c'est comme aller à un groupe d'étrangers lors d'une fête. Si vous commencez �
 parler des lamas, alors qu'ils étaient plongés dans une discussion sur les
 poissons rouges, ils vous regarderont probablement un peu étrangement.
 
@@ -221,7 +221,7 @@ remarquées et entendues.
 
 Chaque communauté open source est différente.
 
-Passer des années sur un projet open source signifie que vous avez appris à
+Passer des années sur un projet open source signifie que vous avez appris �
 connaître un projet open source. Déplacez-vous vers un projet différent, et vous
 pourriez trouver le vocabulaire, les normes et les styles de communication
 complètement différents.
@@ -318,7 +318,7 @@ monde comme réparable.
 Vous pouvez scanner un fichier README et trouver un lien cassé ou une faute de
 frappe. Ou vous êtes un nouvel utilisateur et vous avez remarqué que quelque
 chose est cassé, ou un problème que vous pensez devrait vraiment être dans la
-documentation. Au lieu de l'ignorer et de passer à autre chose, ou de demander à
+documentation. Au lieu de l'ignorer et de passer à autre chose, ou de demander �
 quelqu'un d'autre de le réparer, voyez si vous pouvez aider en faisant un
 descriptif du problème. C'est cela l'open source !
 
@@ -326,7 +326,7 @@ descriptif du problème. C'est cela l'open source !
 > à l'open source sont de la documentation, une correction de faute de frappe,
 > un reformatage ou l'écriture d'une traduction.
 
-Vous pouvez également utiliser l'une des ressources suivantes pour vous aider à
+Vous pouvez également utiliser l'une des ressources suivantes pour vous aider �
 découvrir et à contribuer à de nouveaux projets :
 
 - [GitHub Explore](https://github.com/explore/)
@@ -708,7 +708,7 @@ Si le projet est sur GitHub, voici comment soumettre une pull request:
 - **Contribuer dans le style du projet** au mieux de vos capacités. Cela peut
   signifier utiliser des indentations, des points-virgules ou des commentaires
   différemment de ce que vous feriez dans votre propre repository, mais il est
-  plus facile pour le mainteneur de fusionner, d'autres à comprendre et à
+  plus facile pour le mainteneur de fusionner, d'autres à comprendre et �
   maintenir dans le futur.
 
 S'il s'agit de votre première Pull Request, consultez

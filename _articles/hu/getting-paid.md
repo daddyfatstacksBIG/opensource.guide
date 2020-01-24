@@ -100,7 +100,7 @@ tűnik.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Mint sokan mások a nyílt forráskódú közösségben, én is küzdöttem egy projekt fenntartásának terheivel. Amikor először kezdtem el a nyílt forráskódú munkát, későig maradtam a munkahelyemen, hogy dolgozhassak, vagy rögtön nekikezdtem, ahogy hazaértem. (...) Meg tudtam beszélni a vezetőmmel a problémákat, amikkel szembesültem és kitaláltuk, hogy mivel használjuk a Babel-t, be tudjuk beépíteni a nyílt forráskódú feladatokat a saját munkánkba. 
+  Mint sokan mások a nyílt forráskódú közösségben, én is küzdöttem egy projekt fenntartásának terheivel. Amikor először kezdtem el a nyílt forráskódú munkát, későig maradtam a munkahelyemen, hogy dolgozhassak, vagy rögtön nekikezdtem, ahogy hazaértem. (...) Meg tudtam beszélni a vezetőmmel a problémákat, amikkel szembesültem és kitaláltuk, hogy mivel használjuk a Babel-t, be tudjuk beépíteni a nyílt forráskódú feladatokat a saját munkánkba.
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>

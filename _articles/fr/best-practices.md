@@ -225,7 +225,7 @@ l'enthousiasme d'une autre personne est une bonne chose, rejeter une
 contribution n'est pas la même chose que rejeter la personne derrière elle.
 
 En fin de compte, si une contribution n'est pas suffisante, vous n'êtes pas
-obligé de l'accepter. Soyez gentil et réactif lorsque les gens contribuent à
+obligé de l'accepter. Soyez gentil et réactif lorsque les gens contribuent �
 votre projet, mais n'acceptez que les changements qui, selon vous, amélioreront
 votre projet. Le plus souvent vous pratiquez en disant non, plus cela devient
 facile. Promis.
@@ -292,7 +292,7 @@ Lorsque vous voyez de nouveaux contributeurs faire des contributions répétées
 reconnaissez leur travail en offrant plus de responsabilités. Documentez comment
 les autres peuvent devenir des leaders s'ils le souhaitent.
 
-Encourager les autres à
+Encourager les autres �
 [partager la propriété du projet](../building-community/#partager-la-propriété-de-votre-projet)
 peut réduire considérablement votre charge de travail, comme l'a découvert
 @lmccart sur son projet, [p5.js](https://github.com/processing/p5.js).
@@ -368,7 +368,7 @@ vos amis. Utilisez-les pour rendre votre vie de responsable plus facile.
 
 ### Exiger des tests et autres vérifications pour améliorer la qualité de votre code
 
-L'un des moyens les plus importants pour automatiser votre projet consiste à
+L'un des moyens les plus importants pour automatiser votre projet consiste �
 ajouter des tests.
 
 Les tests aident les contributeurs à croire qu'ils ne casseront rien. Ils
@@ -425,7 +425,7 @@ Pour gérer vos notifications par e-mail, vous pouvez configurer
 pour organiser par priorité.
 
 Si vous souhaitez être un peu plus avancé, les guides de style et les linters
-peuvent standardiser les contributions de projet et les rendre plus faciles à
+peuvent standardiser les contributions de projet et les rendre plus faciles �
 consulter et à accepter.
 
 Cependant, si vos normes sont trop compliquées, elles peuvent augmenter les
@@ -488,6 +488,6 @@ déranger.
 Maintenir un projet populaire nécessite des compétences différentes des étapes
 précédentes de la croissance, mais ce n'est pas moins gratifiant. En tant que
 responsable, vous pratiquerez le leadership et les compétences personnelles à un
-niveau que peu de gens connaissent. Bien que ce ne soit pas toujours facile à
+niveau que peu de gens connaissent. Bien que ce ne soit pas toujours facile �
 gérer, définir des limites claires et ne prendre que ce que vous êtes à l'aise
 vous aidera à rester heureux, frais et productif.

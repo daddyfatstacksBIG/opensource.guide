@@ -13,8 +13,8 @@ redirect_from: /zh-tw/legal/
 
 ## 瞭解開源的法律含義
 
-向世界分享你們具有創造性的工作，這是一個多麼令人激動和有價值的經歷。這也意味著你
-們必須擔心一堆你們不清楚的法律問題。幸運的是，你們不必從頭開始。我們已經涵蓋了你
+向世界分享你們具有創造性的工作，這是一個多麼令人激動和有價值的經歷。這也意味著�
+們必須擔心一堆你們不清楚的法律問題。幸運的是，你們不必從頭開始。我們已經涵蓋了�
 們的法律需求。（在你們行動前，請確定閱讀了我們
 的[免責聲明](https://github.com/cnbo/open-source-guide/blob/gh-pages/notices.md)。
 ）
@@ -35,7 +35,7 @@ redirect_from: /zh-tw/legal/
 （copyright）所有者。這意味著沒有人（也包括你們）可以使用，複製，分發後者修改他
 們的貢獻，
 
-最後，你們的專案可能具有你們不知道的許可證要求的依賴關係。你們的專案社群，或者你
+最後，你們的專案可能具有你們不知道的許可證要求的依賴關係。你們的專案社群，或者�
 們的僱主政策也可能要求你們使用特定的開源許可協議。
 
 ## 公開的 GitHub 專案是開源的嗎
@@ -101,7 +101,7 @@ redirect_from: /zh-tw/legal/
   ，[MIT](https://choosealicense.com/licenses/mit/)是[npm libraries](https://libraries.io/npm)使
   用的最流行的許可協議。
 - **你們的專案是否想吸引大企業？**大型企業可能需要所有貢獻者的明確專利許可。在這
-  種情況下，[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)適合你
+  種情況下，[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)適合�
   們。
 - **你們的專案是否想吸引不願自己的貢獻用於其它同類型軟件的貢獻者
   ？**[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)和[AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)適
@@ -188,7 +188,7 @@ redirect_from: /zh-tw/legal/
   者的專利授權，這些可能適合用於你們公司的專利組合或者專案的其他貢獻者和用戶
   。[Apache 個人貢獻者許可協議](https://www.apache.org/licenses/icla.txt)是一種
   常用的附加貢獻者協議，其具有與 Apache 許可 2.0 中的專利許可相同的專利許可。
-- 如果你們的專案使用的是 copyleft 許可協議，但你們也需要分發專案的專有版本。那你
+- 如果你們的專案使用的是 copyleft 許可協議，但你們也需要分發專案的專有版本。那�
   們需要每個貢獻者分配版權給你們或者授予你們許可權
   。[MongoDB 貢獻者協議](https://www.mongodb.com/legal/contributor-agreement)就
   是這中類型的。
@@ -271,7 +271,7 @@ redirect_from: /zh-tw/legal/
   </p>
 </aside>
 
-- **專利：**你們的公司可能希望加
+- **專利：**你們的公司可能希望�
   入[開放發明網絡](http://www.openinventionnetwork.com/)，一個共享的專利防禦池，
   以保護成員使用主要開源專案，或探索其他替代專利許可。
 
